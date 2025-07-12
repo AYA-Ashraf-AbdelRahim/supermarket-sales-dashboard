@@ -75,7 +75,7 @@ The dataset includes the following fields:
 
 ## 📁 Files Included  
 - `supermarket_sales_dashboard.xlsx` – Excel dashboard  
-- `supermarket_sales_summary.pptx` – Report presentation
+- `supermarket_sales_summary.pdf` – Report presentation
 
 ---
 
